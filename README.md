@@ -10,4 +10,4 @@ I build machine learning systems that turn complex biomedical data into actionab
 
 **Expertise:** Strongest in medical AI, clinical AI, digital health, pharma, and biotech. Excited by opportunities and collaborations in high-impact domains where complex data meets high-stakes decisions, and where rigorous modeling and production-grade systems matter.
 
-**LinkedIn:** [in/julcambec](https://www.linkedin.com/in/julcambec/)
+**LinkedIn:** [linkedin.com/in/julcambec](https://www.linkedin.com/in/julcambec/)  ·  **Personal website:** [julcambec.github.io](https://julcambec.github.io/)
